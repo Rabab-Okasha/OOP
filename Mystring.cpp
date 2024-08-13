@@ -1,5 +1,3 @@
-// Created by rabab on 6/19/2024.
-// Section 14
 // Overloading copy assignment
 #include <iostream>
 #include <cctype>
