@@ -1,6 +1,3 @@
-//
-// Created by rabab on 6/19/2024.
-//
 #ifndef OOPPROJECTS_MYSTRING_H
 #define OOPPROJECTS_MYSTRING_H
 
