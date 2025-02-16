@@ -32,8 +32,8 @@ int main() {
 
     Mystring s3{"abcdef"};
     s3 *= 5;
-    cout << s3 << endl;             abcdefabcdefabcdefabcdefabcdef
-
+    cout << s3 << endl; 
+    
     Mystring repeat_string;
     int repeat_times;
     cout << "Enter a string to repeat: " << endl;
